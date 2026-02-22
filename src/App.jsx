@@ -7,7 +7,7 @@ const projects = [
     name: "Quibly",
     type: "quibly",
     description: "Advanced project ecosystem and resource management for modern teams.",
-    url: "https://quibly.app",
+    url: "https://quiblyy.vercel.app/",
     color: "#6366f1"
   },
   {
